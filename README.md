@@ -2,7 +2,7 @@
 
 ## This project aims to create two games with the Python language in its version 3.10
 
-### The game was developed using the technologies below
+### The game was developed using the technologies below:
 
 * [Python](https://www.python.org/)
 * [Visual Studo Code](https://code.visualstudio.com/)
